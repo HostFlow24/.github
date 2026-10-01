@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/HostFlow24/.github/main/assets/hostflow24-logo.png" alt="HostFlow24" width="440">
+<a href="https://www.hostflow24.com">
+  <img src="https://raw.githubusercontent.com/HostFlow24/.github/main/assets/hostflow24-logo.png" alt="HostFlow24" width="440">
+</a>
 
 # HostFlow24 PMS
 
