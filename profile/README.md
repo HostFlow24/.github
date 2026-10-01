@@ -4,7 +4,7 @@
 
 # HostFlow24 PMS
 
-HostFlow24 PMS is a property management system for hotels, B&Bs and property managers of apartments and villas. It brings reservations, availability, rates, stays and housekeeping into one workspace. The project is in active development.
+HostFlow24 PMS is a property management system for hotels, B&Bs and property managers of apartments and villas. It brings reservations, availability, rates, stays and housekeeping into one workspace.
 
 ## Choose your language
 

@@ -28,7 +28,7 @@ HostFlow24 PMS riunisce prenotazioni, disponibilità, tariffe, soggiorni e puliz
 - [A chi è rivolto](https://www.hostflow24.com/it#destinatari)
 - [Domande frequenti](https://www.hostflow24.com/it#domande)
 
-HostFlow24 PMS è in sviluppo attivo. Il [sito ufficiale in italiano](https://www.hostflow24.com/it) presenta il prodotto.
+Il [sito ufficiale in italiano](https://www.hostflow24.com/it) presenta il prodotto.
 
 ---
 

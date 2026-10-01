@@ -28,7 +28,7 @@ HostFlow24 PMS brings reservations, availability, rates, stays and housekeeping 
 - [Who it is for](https://www.hostflow24.com/en#destinatari)
 - [Frequently asked questions](https://www.hostflow24.com/en#domande)
 
-HostFlow24 PMS is in active development. The [official website in English](https://www.hostflow24.com/en) presents the product.
+The [official website in English](https://www.hostflow24.com/en) presents the product.
 
 ---
 

@@ -18,6 +18,6 @@ GitHub displays `profile/README.md` on the [HostFlow24 organization page](https:
 1. Keep the introduction in `profile/README.md` short and in English.
 2. Maintain each project overview in `profile/README.<language-code>.md`, using the language named by its code. To add another language, create its overview and add it to the language selector and this repository's layout table.
 3. Link each overview to the corresponding language on the official website. Use canonical URLs without a trailing slash, such as `https://www.hostflow24.com/en` and `https://www.hostflow24.com/it`.
-4. Keep product descriptions consistent across translations. Use absolute GitHub URLs for profile navigation and images so they also work from the organization page, and reuse the brand assets in `assets`.
+4. Describe what the product does and who it is for, without development status. Keep the meaning consistent across translations. Use absolute GitHub URLs for profile navigation and images so they also work from the organization page, and reuse the brand assets in `assets`.
 
 Commit and push updates to `main` to publish them on GitHub.
