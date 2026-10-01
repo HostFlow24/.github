@@ -1,6 +1,4 @@
-<a href="https://www.hostflow24.com/it">
-  <img src="https://raw.githubusercontent.com/HostFlow24/.github/main/assets/hostflow24-logo.png" alt="HostFlow24" width="440">
-</a>
+<img src="https://raw.githubusercontent.com/HostFlow24/.github/main/assets/hostflow24-logo.png" alt="HostFlow24" width="440">
 
 # HostFlow24 PMS
 
@@ -21,14 +19,6 @@ HostFlow24 PMS riunisce prenotazioni, disponibilità, tariffe, soggiorni e puliz
 - **Disponibilità e tariffe:** aggiorna prezzi e disponibilità con una vista chiara su ciò che puoi offrire.
 - **Soggiorni e pulizie:** coordina assegnazioni delle camere, check-in, check-out e attività di pulizia.
 - **Prenotazioni dirette:** collega le prenotazioni dal sito della tua struttura allo stesso inventario e calendario utilizzati nel PMS.
-
-## Scopri il progetto
-
-- [Il prodotto](https://www.hostflow24.com/it#prodotto)
-- [A chi è rivolto](https://www.hostflow24.com/it#destinatari)
-- [Domande frequenti](https://www.hostflow24.com/it#domande)
-
-Il [sito ufficiale in italiano](https://www.hostflow24.com/it) presenta il prodotto.
 
 ---
 

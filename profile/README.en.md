@@ -1,6 +1,4 @@
-<a href="https://www.hostflow24.com/en">
-  <img src="https://raw.githubusercontent.com/HostFlow24/.github/main/assets/hostflow24-logo.png" alt="HostFlow24" width="440">
-</a>
+<img src="https://raw.githubusercontent.com/HostFlow24/.github/main/assets/hostflow24-logo.png" alt="HostFlow24" width="440">
 
 # HostFlow24 PMS
 
@@ -21,14 +19,6 @@ HostFlow24 PMS brings reservations, availability, rates, stays and housekeeping 
 - **Availability and rates:** update prices and availability with a clear view of what you can offer.
 - **Stays and housekeeping:** coordinate room assignments, check-in, check-out and cleaning tasks.
 - **Direct bookings:** connect bookings from your property's website to the same inventory and calendar used in the PMS.
-
-## Explore the project
-
-- [The product](https://www.hostflow24.com/en#prodotto)
-- [Who it is for](https://www.hostflow24.com/en#destinatari)
-- [Frequently asked questions](https://www.hostflow24.com/en#domande)
-
-The [official website in English](https://www.hostflow24.com/en) presents the product.
 
 ---
 
